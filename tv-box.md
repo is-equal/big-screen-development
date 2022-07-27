@@ -16,9 +16,9 @@
 
 ## Vivo
 
-| OS  | Version | Model Year | Web Engine |
-|:---:|:-------:|:----------:|:----------:|
-|  -  |    -    |     -      | Webkit[^2] |
+| OS  | Version | Model Year |   Web Engine    |
+|:---:|:-------:|:----------:|:---------------:|
+|  -  |    -    |     -      | Safari 11.1[^2] |
 
 [^1]: [Amazon Fire OS Documentation](https://developer.amazon.com/docs/fire-tv/device-specifications.html)
 [^2]: [WPE WebKit](https://wpewebkit.org)
