@@ -13,7 +13,7 @@
 |    OS    | Version | Model | Web Engine |
 |:--------:|:-------:|:-----:|:----------:|
 | TeleIDEA |    -    |  4K   | Chrome 39  |
-| TeleIDEA |    -    |  HD   |  Safari 6  |
+| TeleIDEA |    -    |  HD   |  Safari 5  |
 
 ## Vivo
 
