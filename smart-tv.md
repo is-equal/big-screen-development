@@ -32,98 +32,109 @@
 |             |         |    2016    |            |                |                  |
 |             |   2.x   |    2015    |  Safari 7  |                |                  |
 |             |   1.x   |    2014    |            |                |                  |
-| NetCast[^5] |   4.5   |    2015    |            |       HD       |     HD, FHD      |
+| NetCast[^5] |   4.5   |    2015    |            |       HD       |   HD, FHD, 4K    |
 |             |         |    2014    |            |                |                  |
-|             |   4.0   |    2013    |            |                |        HD        |
+|             |   4.0   |    2013    |            |                |     HD, FHD      |
 |             |   3.0   |    2012    |  Safari 5  |                |                  |
 |             |   2.0   |    2011    |  Safari 4  |                |                  |
 
 ## Sony
 
-|   OS   | Version | Model Year | Web Engine |
-|:------:|:-------:|:----------:|:----------:|
-| bravia |    -    |    2016    |  Opera 29  |
-|        |    -    |    2015    |  Opera 28  |
-|        |    -    |    2014    | Opera 9.8  |
-|        |    -    |    2013    |            |
-
-## Toshiba
-
-|      OS      | Version | Model Year | Web Engine |
-|:------------:|:-------:|:----------:|:----------:|
-|  FireOS[^3]  |    7    |    2021    | Chrome 72  |
-|              |         |    2020    |            |
-|              |    6    |    2020    | Chrome 51  |
-|              |         |    2019    |            |
-|              |         |    2018    |            |
-|    VIDAA     |    -    |    2021    | Chrome 77  |
-| NetRange[^4] |   5.1   |     -      | Chrome 56  |
-
-## Hisense
-
-|     OS     | Version | Model Year | Web Engine |
-|:----------:|:-------:|:----------:|:----------:|
-| FireOS[^3] |    7    |    2021    | Chrome 72  |
-|   VIDAA    |    -    |    2021    | Chrome 77  |
-
-## AOC
-
-|      OS      | Version | Model Year | Web Engine |
-|:------------:|:-------:|:----------:|:----------:|
-|    Linux     |    -    |    2018    |  Opera 36  |
-|              |    -    |    2017    |            |
-|              |    -    |    2014    |            |
-|              |    -    |    2016    | Opera 9.8  |
-| NetRange[^4] |   5.1   |     -      | Chrome 56  |
+|   OS   | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+| bravia |    -    |    2016    |  Opera 29  |       HD       |        -         |
+|        |    -    |    2015    |  Opera 28  |                |        -         |
+|        |    -    |    2014    | Opera 9.8  |                |        -         |
+|        |    -    |    2013    |            |                |        -         |
 
 ## TCL
 
-|      OS      | Version | Model Year |  Web Engine   |
-|:------------:|:-------:|:----------:|:-------------:|
-|    Linux     |    -    |     -      |   Opera 9.8   |
-|              |    -    |     -      | Chrome 39[^5] |
-| NetRange[^4] |   5.1   |     -      |   Chrome 56   |
+|      OS      | Version | Model Year |  Web Engine   | APP Resolution | Video Resolution |
+|:------------:|:-------:|:----------:|:-------------:|:--------------:|:----------------:|
+| NetRange[^4] |   5.1   |    2019    |   Chrome 56   |       HD       |        -         |
+|    Linux     |    -    |     -      | Chrome 39[^5] |                |        -         |
+|              |    -    |     -      |   Opera 9.8   |                |        -         |
+
+## Toshiba (SEMP)
+
+|      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+|  FireOS[^3]  |    7    |    2021    | Chrome 72  |      FHD       |        -         |
+|              |         |    2020    |            |                |        -         |
+|              |    6    |    2020    | Chrome 51  |                |        -         |
+|              |         |    2019    |            |                |        -         |
+|              |         |    2018    |            |                |        -         |
+|    VIDAA     |    -    |    2021    |  Opera 46  |       HD       |        -         |
+| NetRange[^4] |   5.1   |    2019    | Chrome 56  |                |        -         |
+|    Linux     |    -    |    2018    | Opera 9.8  |                |        -         |
+|              |    -    |    2017    |            |                |        -         |
+|              |    -    |    2016    |            |                |        -         |
+
+## Hisense
+
+|     OS     | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:----------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+| FireOS[^3] |    7    |    2021    | Chrome 72  |      FHD       |        -         |
+|   VIDAA    |    -    |    2021    |  Opera 46  |       HD       |        -         |
 
 ## Panasonic
 
-|   OS   | Version | Model Year |  Web Engine   |
-|:------:|:-------:|:----------:|:-------------:|
-| Linux  |    -    |     -      | Chrome 39[^5] |
-| Viera  |    -    |     -      |   Chrome 23   |
-| Foxxum |    -    |     -      |   Opera 9.8   |
+|   OS   | Version | Model Year |  Web Engine   | APP Resolution | Video Resolution |
+|:------:|:-------:|:----------:|:-------------:|:--------------:|:----------------:|
+| Linux  |    -    |     -      | Chrome 39[^5] |       HD       |        -         |
+| Viera  |    -    |     -      |   Chrome 23   |                |        -         |
+| Foxxum |    -    |     -      |   Opera 9.8   |                |        -         |
 
 ## Philips
 
-|      OS      | Version | Model Year | Web Engine |
-|:------------:|:-------:|:----------:|:----------:|
-|    Linux     |    -    |    2019    |  Opera 36  |
-|              |    -    |    2018    |            |
-|              |    -    |    2017    |            |
-|              |    -    |    2016    | Opera 9.8  |
-|              |    -    |    2015    |            |
-|              |    -    |    2014    |            |
-| NetRange[^4] |   5.1   |     -      | Chrome 56  |
+|      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+|   WhaleOS    |    -    |    2021    |  Opera 46  |       HD       |        -         |
+|              |    -    |    2020    |            |                |        -         |
+| NetRange[^4] |   5.1   |    2018    | Chrome 56  |                |        -         |
+|    Linux     |    -    |    2019    |  Opera 36  |                |        -         |
+|              |    -    |    2018    |            |                |        -         |
+|              |    -    |    2017    |            |                |        -         |
+|              |    -    |    2016    | Opera 9.8  |                |        -         |
+|              |    -    |    2015    |            |                |        -         |
+|              |    -    |    2014    |            |                |        -         |
+
+## AOC
+
+|      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+|   WhaleOS    |    -    |    2021    |  Opera 46  |       HD       |        -         |
+|              |    -    |    2020    |            |                |        -         |
+| NetRange[^4] |   5.1   |    2018    | Chrome 56  |                |        -         |
+|    Linux     |    -    |    2018    |  Opera 36  |                |        -         |
+|              |    -    |    2017    |            |                |        -         |
+|              |    -    |    2016    | Opera 9.8  |                |        -         |
+|              |    -    |    2015    |            |                |        -         |
+|              |    -    |    2014    |            |                |        -         |
 
 ## Philco
 
-|      OS      | Version | Model Year | Web Engine |
-|:------------:|:-------:|:----------:|:----------:|
-| NetRange[^4] |   5.1   |    2019    | Chrome 56  |
+|      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+| NetRange[^4] |   5.1   |    2020    | Chrome 56  |       HD       |        -         |
+|              |         |    2019    |            |                |        -         |
+|    Linux     |    -    |    2018    |  Safari 7  |                |        -         |
+|              |    -    |    2017    |            |                |        -         |
 
 ## Britânia
 
 Manufactured by [Philco](#philco-smart-tvs)
 
-|      OS      | Version | Model Year | Web Engine |
-|:------------:|:-------:|:----------:|:----------:|
-| NetRange[^4] |   5.1   |    2021    | Chrome 56  |
+|      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
+|:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
+| NetRange[^4] |   5.1   |    2021    | Chrome 56  |       HD       |        -         |
 
 ## Xiaomi
 
-|     OS      | Version | Model | Web Engine |
-|:-----------:|:-------:|:-----:|:----------:|
-| FireOS[^3]  |    7    | 2022  | Chrome 72  |
-
+|     OS      | Version | Model | Web Engine | APP Resolution | Video Resolution |
+|:-----------:|:-------:|:-----:|:----------:|:--------------:|:----------------:|
+| FireOS[^3]  |    7    | 2022  | Chrome 72  |      FHD       |        -         |
+ 
 [^1]: [Samsung Tizen TV Documentation](https://developer.tizen.org/tizen/tv)
 [^2]: [LG webOS TV Documentation](https://webostv.developer.lge.com)
 [^3]: [Amazon Fire OS Documentation](https://developer.amazon.com/docs/fire-tv/device-specifications.html)
