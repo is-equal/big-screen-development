@@ -8,11 +8,12 @@
 |            |    6    |   -   | Chrome 51  |
 |            |    5    |   -   | Chrome 37  |
 
-## Claro 4K
+## Claro
 
-| OS  | Version | Model Year | Web Engine |
-|:---:|:-------:| :--------: | :--------: |
-|  -  |    -    |     -      | Chrome 39  |
+|    OS    | Version | Model | Web Engine |
+|:--------:|:-------:|:-----:|:----------:|
+| TeleIDEA |    -    |  4K   | Chrome 39  |
+| TeleIDEA |    -    |  HD   |  Safari 6  |
 
 ## Vivo
 
