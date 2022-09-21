@@ -51,6 +51,8 @@
 
 |      OS      | Version | Model Year |  Web Engine   | APP Resolution | Video Resolution |
 |:------------:|:-------:|:----------:|:-------------:|:--------------:|:----------------:|
+|   WhaleOS    |   2.x   |    2021    |   Opera 46    |       HD       |        -         |
+|              |   1.x   |    2020    |   Opera 9.8   |                |        -         |
 | NetRange[^4] |   5.1   |    2019    |   Chrome 56   |       HD       |        -         |
 |    Linux     |    -    |     -      | Chrome 39[^5] |                |        -         |
 |              |    -    |     -      |   Opera 9.8   |                |        -         |
@@ -89,8 +91,8 @@
 
 |      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
 |:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
-|   WhaleOS    |    -    |    2021    |  Opera 46  |       HD       |        -         |
-|              |    -    |    2020    |            |                |        -         |
+|   WhaleOS    |   2.x   |    2021    |  Opera 46  |       HD       |        -         |
+|              |   1.x   |    2020    |  Opera 36  |                |        -         |
 | NetRange[^4] |   5.1   |    2018    | Chrome 56  |                |        -         |
 |    Linux     |    -    |    2019    |  Opera 36  |                |        -         |
 |              |    -    |    2018    |            |                |        -         |
@@ -103,8 +105,7 @@
 
 |      OS      | Version | Model Year | Web Engine | APP Resolution | Video Resolution |
 |:------------:|:-------:|:----------:|:----------:|:--------------:|:----------------:|
-|   WhaleOS    |    -    |    2021    |  Opera 46  |       HD       |        -         |
-|              |    -    |    2020    |            |                |        -         |
+|   WhaleOS    |   2.x   |    2021    |  Opera 46  |       HD       |        -         |
 | NetRange[^4] |   5.1   |    2018    | Chrome 56  |                |        -         |
 |    Linux     |    -    |    2018    |  Opera 36  |                |        -         |
 |              |    -    |    2017    |            |                |        -         |
